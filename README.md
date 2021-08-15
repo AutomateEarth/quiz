@@ -1,1 +1,1 @@
-# quiz
+This is a simple test
